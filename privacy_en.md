@@ -17,7 +17,7 @@ If you do not agree with this policy, please do not use the app.
 
 SynoDocker is published under the bundle identifier `com.geekast.SynoDocker`.
 
-To ask a privacy question, use **Contact Us** in the app (**About**), or email **lavish20210717@gmail.com**.
+To ask a privacy question, use **Contact Us** in the app (**About**).
 
 ## 2. Summary
 
@@ -156,7 +156,6 @@ We may update this Privacy Policy when the app or legal requirements change. The
 ## 12. Contact
 
 - In the app: container list → menu → **About** → **Contact Us**
-- Email: **lavish20210717@gmail.com**
 
 Please do not send DSM passwords, OTP codes, or Keychain exports.
 
